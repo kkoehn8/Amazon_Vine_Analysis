@@ -15,7 +15,7 @@ Once the data was imported from an AWS database into our Postgres database we ex
 ## Results
 Initially we retrieved items with 20 or more total votes and that data was further reduced to items where the number of helpful votes divided by the total votes was greater than or equal to 50%. The image below shows the first 20 rows of the data that met the above criteria.
 
-!Image (https://github.com/kkoehn8/Amazon_Vine_Analysis/blob/main/Images/Vine_Reviews.PNG)
+![Vine_Reviews](https://github.com/kkoehn8/Amazon_Vine_Analysis/blob/main/Images/Vine_Reviews.PNG)
 
 The data was then subsetted based on if the review was a Vine Review or not the the results are shown below. 
 
